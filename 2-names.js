@@ -1,0 +1,9 @@
+//local
+const secret = "SUper secret";
+//share
+const jhon = "jhon";
+const peter = "peter";
+
+console.log(module);
+
+module.exports = { jhon, peter };
